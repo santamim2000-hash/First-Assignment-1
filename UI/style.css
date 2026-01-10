@@ -18,6 +18,7 @@
       color: rgba(255, 255, 255, 1);
       font-size: 16px;
       font-weight: 500;
+      cursor: pointer;
 
  
 
@@ -53,3 +54,65 @@ nav .menu a{
     
     
 }
+
+ .banner{
+     position: relative;
+    width: 100%;
+    max-width: 100%;
+    
+}  
+
+ .banner img{
+    width: 100%;
+    height: auto;
+    
+   
+}
+
+/* main content */
+
+.banner .banner-content{
+    position: absolute;
+    text-align: center;
+     /* padding: 70px 120px 134px; */
+    top: 20%;
+    right:10%;
+    left: 5%;
+
+}
+
+.badge {
+       display: inline-block;
+       border-radius:8 px;
+       border: 1px solid white;
+      background-color: #FFFFFF;
+        color:#30B868 ;
+        padding:6px 14px;
+        font-size: 14px;
+        font-weight: 500;
+       
+       
+}
+   /* extra style */
+
+
+
+.banner-content h1{
+    font-size: 65px;
+    font-weight: 700;
+   color: #FFFFFF;
+   
+}
+.banner-content h1 span{
+    color: #30B868;
+}
+
+ .banner-content p{
+    color:rgba(255, 255, 255, 1) ;
+    font-size: 18px;
+    line-height:34px ;
+    margin-bottom: 12px;
+    
+ }  
+   
+
