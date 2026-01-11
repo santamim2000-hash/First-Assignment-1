@@ -170,3 +170,52 @@ nav .menu a{
     font-size: 24px;
     font-style: 600px;
   }
+
+  #brain {
+    
+     width: 1360px;
+    height: 600px;
+   display: flex;
+   justify-content:flex-start ;
+   align-items: center;
+    /* border: 1px solid red; */
+  }
+
+  #brain .brain-image{
+    padding: 120px;
+    width: 800px;
+    height: 800px;
+    border-radius: 12px;
+  }
+
+  #brain .brain-content h6{
+         font-size:16px ;
+         font-weight: 500;
+         color:#469165 ;
+  }
+
+  #brain .brain-content h1{
+    font-size: 48px;
+    font-weight: 600;
+    top: 16px;
+    bottom: 16px;
+    
+  }
+
+  #brain .brain-content p{
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 16px;
+   
+  }
+  #brain .brain-content .second{
+    color: #001931;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 16px;
+  }
+
+  
