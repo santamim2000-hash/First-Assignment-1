@@ -183,7 +183,7 @@ nav .menu a{
 
   #brain .brain-image{
     padding: 120px;
-    width: 800px;
+    width: 700px;
     height: 800px;
     border-radius: 12px;
   }
@@ -218,4 +218,45 @@ nav .menu a{
     padding-top: 16px;
   }
 
+
+  #Access{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+     padding: 120px 120px 120px;
+   
+  }
+
+  #Access .early-section{
+    background-color: #F7F6F2;
+    padding: 80px 40px;
+    border-radius: 12px;
+  }
+
+   #Access .early-section h2{
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    
+   }
+
+#Access .early-section p{
+ color:#627382;
+ margin-bottom: 24px;
+
+}
+
+#Access .early-section button{
+    margin-bottom: 16px;
+}
+
+
+  
+  #Access .early-section span{
+    color: #627382;
+    font-size: 16px;
+    line-height:20px ;
+   
+  }
   
